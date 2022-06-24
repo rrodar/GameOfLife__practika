@@ -1,0 +1,13 @@
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe.config
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.AssemblyReference.cache
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.SuggestedBindingRedirects.cache
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\obj\Release\GameOfLife.Form1.resources
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\obj\Release\GameOfLife.Menu.resources
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\obj\Release\GameOfLife.Properties.Resources.resources
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\obj\Release\GameOfLife.Rules.resources
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.GenerateResource.cache
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\obj\Release\GameOfLife.exe
+C:\Users\rogac\Desktop\Игра Жизнь\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb
